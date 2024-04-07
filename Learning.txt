@@ -1,0 +1,43 @@
+#lec-109 Builidng feature section part 2
+ -12m, icon adjustment quite impressive
+ -13m, different text of paragraph in cell adjustment(important to learn)
+#lec-110 Building the story section part 1
+   -13m, when doing flex-direction to column. align item will be strentch by default and
+           button will stretch to entire column. align-items: start.
+   -14m.10s, We can use grid instead of flexbox and really good concept to understand
+             flexbox and grid each with good comparison. Use case of 'justify-items' in grid
+   -16m.23s, *left and right responsive spacing with padding left and right in vw unit.
+#lec-110 Building the story section part 2
+   -5m-10s, centering the image vertically inside grid container with align-items:center.
+   -Good lecture for layouting images and background images.
+#lec-112 Building the home section part 2
+   -6m, overlapping image and icon in the grid cell.
+   -12m.48s &13m.20s, overlapping of home name and aligning property is quite diffcult.
+
+#lec114 Building the gallery part 1
+   -5m-15s, assigning viewport width to the rows of the grid container.
+   -11m-10s, images are not occupying the grid cell.
+
+#lec116 Building the footer
+   -11m-10s, *assigning percentage width to the text with responsiveness and  
+             centering the content using margin-right and left as auto.
+
+
+#lec117, Building the sidebar
+  -learning psuedo class and psuedo element
+  -3m-40s, centring the nav btn, Why display:flex property is not applied on .nav_btn,
+           **********I did not understand this part.
+
+#lec118, Building the header part 1
+  -6m-50s, centering the header element with spacing.
+  -11m-40s, assigning bottom space to the button and also use justify-self and align-self.
+  -13m-20s, assign equal padding to grid items inside grid container. and padding top 
+            lesser than all. Centering the logo.
+  -14m-20s, grid content is not looking center horizontally because grid column is 
+            occupying all the available space. grid-template-columns: max-content.
+#lec118, Building the header part 2
+  -1m-30s, Changing the brightness of the logos.
+  -3m-20s, single element  can be treated as grid and content as well as 
+           psuedo element will be grid item
+#lec119, Building the Realtor section
+  -5m-50s, making the row gap responsive in grid.
